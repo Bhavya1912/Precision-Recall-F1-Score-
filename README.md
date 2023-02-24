@@ -12,3 +12,5 @@ The recall is calculated as the ratio between the number of Positive samples cor
 
 
 F1 score is a machine learning evaluation metric that measures a model's accuracy. It combines the precision and recall scores of a model. The accuracy metric computes how many times a model made a correct prediction across the entire dataset.
+
+
